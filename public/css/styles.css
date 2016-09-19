@@ -1,0 +1,26 @@
+@import 'https://fonts.googleapis.com/css?family=Londrina+Shadow';
+@import 'https://fonts.googleapis.com/css?family=Text+Me+One';
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import 'https://fonts.googleapis.com/css?family=Comfortaa';
+body{
+    background: url(../images/triangles.png);
+}
+h1, p{     
+    color: #f1f1f1;
+    width: 50%;
+    margin: 50px auto; 
+    text-align: center;
+}
+h1{
+    font-family: Comfortaa;    
+    font-size: 6rem;       
+    font-weight: 100;
+    text-shadow: 2px 4px 3px rgba(0,0,0,.5);
+    margin-bottom: 150px;
+}
+h1 small{
+    font-size: 3rem;
+}
+p{
+    font-family: Raleway;   
+}

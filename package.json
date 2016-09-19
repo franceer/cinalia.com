@@ -1,0 +1,19 @@
+{
+  "name": "cinalia.com",
+  "version": "1.0.0",
+  "description": "Site web Cinalia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franceer/cinalia.com.git"
+  },
+  "author": "E.France",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franceer/cinalia.com/issues"
+  },
+  "homepage": "https://github.com/franceer/cinalia.com#readme"
+}
